@@ -18,17 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: V-Research
-email: info@v-research.it
-description: Secure-by-Design
-
-#baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "https://v-research.it" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: https://www.github.com/v-research
-linkedin_username: https://www.linkedin.com/company/v-researchit/
-instagram_username: https://www.instagram.com/vresearch_it/
-medium_username: https://knowledgezero.medium.com/
-facebook_username: https://www.facebook.com/vresearch.it
+title: Hacking soon
+description: Hacking soon
 
 # Build settings
 theme: jekyll-theme-hacker
@@ -59,3 +50,8 @@ github: [metadata]
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-hacker
+title: V-Research Educational
+logo: https://repository-images.githubusercontent.com/293738808/29846400-2ff4-11eb-8a2e-d595a40f785e
+show_downloads: true
