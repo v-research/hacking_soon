@@ -22,7 +22,7 @@ title: V-Research
 email: info@v-research.it
 description: Secure-by-Design
 
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://v-research.it" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: https://www.github.com/v-research
 linkedin_username: https://www.linkedin.com/company/v-researchit/
@@ -59,9 +59,3 @@ github: [metadata]
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-hacker
-title: V-Research Educational
-logo: https://repository-images.githubusercontent.com/293738808/29846400-2ff4-11eb-8a2e-d595a40f785e
-show_downloads: true
-google_analytics: UA-158261467-1
