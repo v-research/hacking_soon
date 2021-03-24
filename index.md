@@ -9,6 +9,6 @@ layout: default
     </h1>
 </div>
 
-<div class="row img-div">
+<div class="row">
     <img src="images/hack-in-progress.png">
 </div>
