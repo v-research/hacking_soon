@@ -10,5 +10,5 @@ layout: default
 </div>
 
 <div class="row">
-    <img src="images/hack-in-progress.png">
+    <img src="images/hack-in-progress.png" class="image">
 </div>
